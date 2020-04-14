@@ -1,0 +1,1 @@
+from ._chair_width_calculator import ChairWidthCalculator
